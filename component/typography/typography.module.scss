@@ -1,0 +1,33 @@
+.link {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 100%;
+
+  padding: 4px;
+
+  transition: all 0.5s;
+  cursor: pointer;
+  &:hover {
+    color: #12121c;
+  }
+}
+
+.med_14 {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 100%;
+}
+
+.med_48_117 {
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 117%;
+}
+
+.opasity {
+  color: #5f6078;
+}
+
+.dark {
+  color: #12121c;
+}
